@@ -5,10 +5,20 @@ Django
 
 https://github.com/krunalkolhe007/Batch9
 
---------------------------
+---------------------------------------------
 Python installing steps:
+-----------------------------
 
 1) go to browser -> python (Welcome to Python.org) -> we get one link click on that 
 
 2) go there on 3.10.4 -> download it then -> install --- you should select path then click on install now and do next to everything ----then finish.
+
+--------------------------------
+Django
+-------------------
+steps to install django :
+
+1) go to command prompt -> there type pip install django -> django will be install automatically
+
+2) to cheack django version -> python -m django --version
 
