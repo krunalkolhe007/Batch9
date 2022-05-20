@@ -4,3 +4,11 @@ Django
 ****Link for accessing github notes and codes:*****
 
 https://github.com/krunalkolhe007/Batch9
+
+--------------------------
+Python installing steps:
+
+1) go to browser -> python (Welcome to Python.org) -> we get one link click on that 
+
+2) go there on 3.10.4 -> download it then -> install --- you should select path then click on install now and do next to everything ----then finish.
+
