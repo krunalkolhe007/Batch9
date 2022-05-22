@@ -39,4 +39,3 @@ cd desktop -> django-admin startproject (project name) -> django project will be
 
 
 
-
