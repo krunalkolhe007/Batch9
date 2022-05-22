@@ -22,3 +22,21 @@ steps to install django :
 
 2) to cheack django version -> python -m django --version
 
+-----------------------------------------------
+Django path steps :
+
+search for python -> right click on python -> open file location -> again right click on python -> 
+open file location -> now go to scripts -> here you have django files location-> copy path->
+find for edit system variables -> Enviorment variables -> click on path with that click on edit -> now paste the copy of django path there ->thn click on OK
+
+-------------------------------------------------------------------------------------
+first create project on desktop :
+
+cd desktop -> django-admin startproject (project name) -> django project will be created on desktop ->cd to that project -> python manage.py runserver -> now you are good to go
+
+
+
+
+
+
+
