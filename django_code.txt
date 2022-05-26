@@ -35,6 +35,43 @@ first create project on desktop :
 cd desktop -> django-admin startproject (project name) -> django project will be created on desktop ->cd to that project -> python manage.py runserver -> now you are good to go
 
 
+===========================================================================================================================================================
+
+folder = directory
+
+skillrex --> project
+     --skillrex  -> root app, user app, base directory, parent app
+             --(...)  
+     --home  
+            -- ( ....)
+-----------------------------------------------------
+
+for creating new app we have following command :
+
+python manage.py startapp home 
+
+-------------------------------------------
+
+db - database
+
+-----------------------
+
+view.py --> python function
+
+models.py --> python  class 
+
+
+
+
+
+
+
+
+
+        - 
+
+
+
 
 
 
